@@ -1,5 +1,5 @@
 <template>
-  <div class="tw-text-center tw-w-12 tw-my-2">
+  <div class="box">
     <div class="icon">
       <slot></slot>
     </div>
@@ -18,6 +18,11 @@ export default {
 </script>
 
 <style scoped>
+.box{
+  text-align: center;
+  width: 3rem;
+  margin: 0.5rem ;
+}
 .icon{
   width: 1.5rem;
   height: 1.5rem;

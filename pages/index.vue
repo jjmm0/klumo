@@ -74,7 +74,7 @@
       </ul>
     </nav>
     <main>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet risus feugiat in ante. Tellus mauris a diam maecenas sed enim ut sem. Maecenas volutpat blandit aliquam etiam erat velit scelerisque in dictum. Sed enim ut sem viverra aliquet eget sit amet tellus. In pellentesque massa placerat duis ultricies lacus. Cras pulvinar mattis nunc sed blandit. Lectus nulla at volutpat diam ut venenatis. Facilisis sed odio morbi quis commodo odio aenean. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Amet aliquam id diam maecenas ultricies mi eget mauris pharetra. Semper viverra nam libero justo laoreet sit amet. Sit amet massa vitae tortor. Placerat in egestas erat imperdiet. Cursus metus aliquam eleifend mi in nulla posuere. Convallis a cras semper auctor neque vitae. Egestas diam in arcu cursus euismod quis.
+      Scroll down to check behavior of the header
     </main>
   </div>
 </template>
